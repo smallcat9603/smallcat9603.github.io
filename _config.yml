@@ -5,8 +5,12 @@
 
 # --- Required options --- #
 
+theme: jekyll-theme-slate
+
 # Name of website
-title: My Website
+title: Welcome to the smallcat9603’s homepage!
+
+description: Feel free to bookmark this to keep an eye on my project updates
 
 # Your name to show in the footer
 author: Some Person
