@@ -22,7 +22,7 @@ navbar-links:
   Resources:
     - GitHub: "https://github.com/smallcat9603"
     - Docker Hub: "https://hub.docker.com/u/smallcat"
-  Author's home: "https://smallcat9603.github.io/"
+  Author's home: "https://smallcat9603.github.io"
 
 # --- Logo --- #
 
@@ -44,13 +44,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "huyao0107@gmail.com"
-# facebook: deanattali
+  facebook: "huyao0107@gmail.com"
   github: "smallcat9603"
-# twitter: daattali
+  twitter: "smallcat9603"
 # patreon: DeanAttali
 # youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "huyao0107@gmail.com"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: RSS smallcat9603 
 
 # --- General options --- #
 
@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "smallcat9603.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
