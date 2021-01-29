@@ -13,16 +13,16 @@ title: Welcome to the smallcat9603’s homepage!
 # description: Feel free to bookmark this to keep an eye on my project updates
 
 # Your name to show in the footer
-author: Some Person
+author: smallcat9603
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - GitHub: "https://github.com/smallcat9603"
+    - Docker Hub: "https://hub.docker.com/u/smallcat"
+  Author's home: "https://smallcat9603.github.io/"
 
 # --- Logo --- #
 
@@ -43,12 +43,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "huyao0107@gmail.com"
+# facebook: deanattali
+  github: https://github.com/smallcat9603
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
