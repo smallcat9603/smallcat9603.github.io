@@ -1,0 +1,4 @@
+@startuml
+a -> b : To request
+b --> a : To response
+@enduml
